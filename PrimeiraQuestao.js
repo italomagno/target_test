@@ -10,3 +10,4 @@ while(k < INDICE){
   soma = soma + k
 }
 
+console.log(soma)
